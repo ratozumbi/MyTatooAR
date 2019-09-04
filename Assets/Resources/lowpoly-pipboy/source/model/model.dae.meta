@@ -1,0 +1,241 @@
+fileFormatVersion: 2
+guid: c181aaa0ba88fae41bbab76e21ad3f31
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Glass004
+    100002: latches004
+    100004: latches005
+    100006: LightBoxWORKONLIGHT004
+    100008: lights003
+    100010: LockingMechanismUN004
+    100012: MainShell004
+    100014: //RootNode
+    100016: RadioBoxLowDone
+    100018: RadsMainBoxLowDone
+    100020: RadsMainBoxLowDone 1
+    100022: ScreenMedia004
+    100024: smcush
+    100026: tapetopnewUNW004
+    100028: TopBit004
+    400000: Glass004
+    400002: latches004
+    400004: latches005
+    400006: LightBoxWORKONLIGHT004
+    400008: lights003
+    400010: LockingMechanismUN004
+    400012: MainShell004
+    400014: //RootNode
+    400016: RadioBoxLowDone
+    400018: RadsMainBoxLowDone
+    400020: RadsMainBoxLowDone 1
+    400022: ScreenMedia004
+    400024: smcush
+    400026: tapetopnewUNW004
+    400028: TopBit004
+    2100000: ScreenDisplaycover
+    2100002: LightBox
+    2100004: Lock
+    2100006: RadsMeter
+    2100008: Radslight
+    2100010: topthingy
+    2100012: tapereder
+    2100014: MainShell
+    2100016: ScreenDisplay
+    2100018: Cloth
+    2100020: Lights
+    2100022: Cushion
+    2100024: radio
+    2300000: Glass004
+    2300002: latches004
+    2300004: latches005
+    2300006: LightBoxWORKONLIGHT004
+    2300008: lights003
+    2300010: LockingMechanismUN004
+    2300012: MainShell004
+    2300014: RadioBoxLowDone
+    2300016: RadsMainBoxLowDone
+    2300018: RadsMainBoxLowDone 1
+    2300020: ScreenMedia004
+    2300022: smcush
+    2300024: tapetopnewUNW004
+    2300026: TopBit004
+    3300000: Glass004
+    3300002: latches004
+    3300004: latches005
+    3300006: LightBoxWORKONLIGHT004
+    3300008: lights003
+    3300010: LockingMechanismUN004
+    3300012: MainShell004
+    3300014: RadioBoxLowDone
+    3300016: RadsMainBoxLowDone
+    3300018: RadsMainBoxLowDone 1
+    3300020: ScreenMedia004
+    3300022: smcush
+    3300024: tapetopnewUNW004
+    3300026: TopBit004
+    4300000: Glass004
+    4300002: LightBoxWORKONLIGHT004
+    4300004: LockingMechanismUN004
+    4300006: RadsMainBoxLowDone
+    4300008: RadsMainBoxLowDone
+    4300010: TopBit004
+    4300012: tapetopnewUNW004
+    4300014: MainShell004
+    4300016: ScreenMedia004
+    4300018: latches004
+    4300020: lights003
+    4300022: smcush
+    4300024: latches005
+    4300026: RadioBoxLowDone
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cloth
+    second: {instanceID: 0}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cushion
+    second: {instanceID: 0}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LightBox
+    second: {instanceID: 0}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lights
+    second: {instanceID: 0}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lock
+    second: {instanceID: 0}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MainShell
+    second: {instanceID: 0}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RadsMeter
+    second: {instanceID: 0}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Radslight
+    second: {instanceID: 0}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ScreenDisplay
+    second: {instanceID: 0}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ScreenDisplaycover
+    second: {instanceID: 0}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: radio
+    second: {instanceID: 0}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tapereder
+    second: {instanceID: 0}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: topthingy
+    second: {instanceID: 0}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

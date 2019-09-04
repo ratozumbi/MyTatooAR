@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VuforiaUnityInfo version="7.0">
+    <TargetSet version="5.0" toolVersion="2.8.0">
+        <CylinderTarget name="braco" version="3.0" targetId="dda6e131f89f4c1ead60259f542f7934" sideLength="3.141000" topDiameter="1.000000" bottomDiameter="1.000000" sideImage="braco.Body_scaled.jpg" topImage="braco.Top_scaled.jpg" bottomImage="braco.Bottom_scaled.jpg"/>
+    </TargetSet>
+</VuforiaUnityInfo>
