@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
+    <CylinderTarget name="15705flip" sideLength="1.570500"/>
+    <CylinderTarget name="bracoFlip" sideLength="3.141000"/>
+    <CylinderTarget name="15705" sideLength="1.570500"/>
     <CylinderTarget name="braco" sideLength="3.141000"/>
   </Tracking>
 </QCARConfig>

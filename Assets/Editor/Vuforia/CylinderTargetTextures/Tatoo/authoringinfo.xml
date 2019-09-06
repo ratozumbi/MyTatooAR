@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <VuforiaUnityInfo version="7.0">
     <TargetSet version="5.0" toolVersion="2.8.0">
+        <CylinderTarget name="15705flip" version="3.0" targetId="50e583c5bfa24db897c8ce9cf95c54a5" sideLength="1.570500" topDiameter="1.000000" bottomDiameter="1.000000" sideImage="15705flip.Body_scaled.jpg" topImage="15705flip.Top_scaled.jpg" bottomImage="15705flip.Bottom_scaled.jpg"/>
+        <CylinderTarget name="bracoFlip" version="3.0" targetId="9eddb55772fb4f27bc8c8eec969ae1e3" sideLength="3.141000" topDiameter="1.000000" bottomDiameter="1.000000" sideImage="bracoFlip.Body_scaled.jpg" topImage="bracoFlip.Top_scaled.jpg" bottomImage="bracoFlip.Bottom_scaled.jpg"/>
+        <CylinderTarget name="15705" version="3.0" targetId="bae72e65ef9141028f8b3efcbb6e8857" sideLength="1.570500" topDiameter="1.000000" bottomDiameter="1.000000" sideImage="15705.Body_scaled.jpg" topImage="15705.Top_scaled.jpg" bottomImage="15705.Bottom_scaled.jpg"/>
         <CylinderTarget name="braco" version="3.0" targetId="dda6e131f89f4c1ead60259f542f7934" sideLength="3.141000" topDiameter="1.000000" bottomDiameter="1.000000" sideImage="braco.Body_scaled.jpg" topImage="braco.Top_scaled.jpg" bottomImage="braco.Bottom_scaled.jpg"/>
     </TargetSet>
 </VuforiaUnityInfo>
